@@ -2,3 +2,5 @@
 This is a test to see if this new feature of GitHub works or not.
 
 So far, not working.
+
+Yes, it finally works. Need to "git add name_file" then commit first.
